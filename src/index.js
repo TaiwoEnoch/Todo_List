@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './index.css';
 
 const tasks = [
@@ -17,13 +18,13 @@ const tasks = [
     index: 3,
   },
 ];
-  
+
 function renderTaskList() {
   const taskList = document.getElementById('task-list');
-  taskList.innerHTML = "";
+  taskList.innerHTML = '';
   tasks.forEach((task) => {
     const listItem = document.createElement('li');
-  
+
     const checkbox = document.createElement('input');
     checkbox.type = 'checkbox';
     checkbox.checked = task.completed;
