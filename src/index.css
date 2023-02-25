@@ -39,10 +39,6 @@ input[type="checkbox"] {
   margin-right: 1rem;
 }
 
-.completed {
-  text-decoration: line-through;
-}
-
 #clear-all {
   text-align: center;
   display: block;
