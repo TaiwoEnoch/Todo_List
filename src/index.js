@@ -1,23 +1,23 @@
-import "./index.css";
+import './index.css';
 
 const tasks = [
   {
     description: 'Wash Dishes',
-    completed: false,
+    completed: 'false',
     index: 1,
   },
   {
     description: 'Complete To Do List Project',
-    completed: false,
+    completed: 'false',
     index: 2,
   },
   {
     description: 'Task 3',
-    completed: false,
+    completed: 'false',
     index: 3,
   },
 ];
-
+checkAllCompleted();
 function renderTaskList() {
   const taskList = document.getElementById('task-list');
   taskList.innerHTML = '';
@@ -51,4 +51,3 @@ function checkAllCompleted() {
 }
 
 renderTaskList();
-checkAllCompleted();
