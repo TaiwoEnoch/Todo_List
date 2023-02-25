@@ -9,6 +9,8 @@ section {
   align-items: center;
 }
 
+
+
 h2 {
   margin: 0;
   padding: 2%;
@@ -157,3 +159,5 @@ input::placeholder {
 .completed {
   text-decoration: line-through;
 }
+
+
