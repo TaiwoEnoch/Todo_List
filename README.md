@@ -45,21 +45,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">main.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">main.js</a>JavaScript</li>
   </ul>
 </details>
 
@@ -70,6 +56,12 @@
 - **Linters was setup to ensure standard coding practices**
 - **Gitignore was used to hide some irrelevant files**
 - **GitHub flow was used for understanding of the reading of the code**
+- **when a user clicks the "Add" button:**
+      - **A new book is added to the collection.**
+      - **The new book is displayed in the page.**
+- **when a user clicks the "Remove" button:**
+      - **The correct book is removed from the collection.**
+      - **The correct book disappears from the page.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
