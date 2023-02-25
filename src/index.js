@@ -6,11 +6,13 @@ const tasks = [
     completed: 'false',
     index: 1,
   },
+
   {
     description: 'Complete To Do List Project',
     completed: 'false',
     index: 2,
   },
+
   {
     description: 'Task 3',
     completed: 'false',
@@ -32,24 +34,23 @@ function renderTaskList() {
       checkAllCompleted();
     });
     listItem.appendChild(checkbox);
-  
+
     const description = document.createElement('span');
     description.innerText = task.description;
     if (task.completed) {
       description.classList.add('completed');
     }
     listItem.appendChild(description);
-  
+
     taskList.appendChild(listItem);
   });
 }  
-  
+
 function checkAllCompleted() {
   const allCompleted = tasks.every((task) => task.completed);
   const clearAllButton = document.getElementById('clear-all');
   clearAllButton.disabled = !allCompleted;
 }
-  
+
 renderTaskList();
 checkAllCompleted();
-  
