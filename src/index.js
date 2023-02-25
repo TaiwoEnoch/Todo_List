@@ -36,18 +36,18 @@ function renderTaskList() {
     description.innerText = task.description;
     if (task.completed) {
       description.classList.add('completed');
-    };
+    }
     listItem.appendChild(description);
 
     taskList.appendChild(listItem);
   });
-};
+}
 
 function checkAllCompleted() {
   const allCompleted = tasks.every((task) => task.completed);
   const clearAllButton = document.getElementById('clear-all');
   clearAllButton.disabled = !allCompleted;
-};
+}
 
 renderTaskList();
 checkAllCompleted();
