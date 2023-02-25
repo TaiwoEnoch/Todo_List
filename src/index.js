@@ -17,7 +17,7 @@ const tasks = [
     index: 3,
   },
 ];
-checkAllCompleted();
+
 function renderTaskList() {
   const taskList = document.getElementById('task-list');
   taskList.innerHTML = '';
@@ -29,7 +29,6 @@ function renderTaskList() {
     checkbox.checked = task.completed;
     checkbox.addEventListener('change', (event) => {
       task.completed = event.target.checked;
-      checkAllCompleted();
     });
     listItem.appendChild(checkbox);
 
@@ -37,17 +36,18 @@ function renderTaskList() {
     description.innerText = task.description;
     if (task.completed) {
       description.classList.add('completed');
-    }
+    };
     listItem.appendChild(description);
 
     taskList.appendChild(listItem);
   });
-}
+};
 
 function checkAllCompleted() {
   const allCompleted = tasks.every((task) => task.completed);
   const clearAllButton = document.getElementById('clear-all');
   clearAllButton.disabled = !allCompleted;
-}
+};
 
 renderTaskList();
+checkAllCompleted();
