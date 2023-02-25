@@ -30,16 +30,16 @@ button {
 
 .todolist-container {
   width: 100%;
-  background-color: whitesmoke;
+  background-color: rgb(142, 133, 133);
   display: grid;
   grid-template-columns: 1fr;
   row-gap: 2px;
-  box-shadow: 1px 1px 5px gray;
+  box-shadow: 3px 3px 8px gray;
 }
 
 .icon {
   width: 16px;
-  width: 15px;
+  width: 18px;
   padding-left: 5%;
 }
 
@@ -69,7 +69,7 @@ button {
   list-style: none;
   display: grid;
   grid-template-columns: 1fr;
-  background-color: whitesmoke;
+  background-color: rgb(87, 75, 75);
   row-gap: 2px;
 }
 
@@ -85,11 +85,12 @@ button {
 
 .todo-input:focus {
   outline: none;
-  border: 2px solid rgb(103, 160, 11);
+  border: 1px solid rgba(143, 140, 135, 0.732);
 }
 
 input::placeholder {
   font-style: italic;
+  font-size: medium;
 }
 
 .task-check {
@@ -107,10 +108,11 @@ input::placeholder {
 }
 
 .clearer {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   padding: 2%;
   cursor: pointer;
-  font-size: 20px;
-  font-weight: lighter;
+  font-size: 23px;
+  font-weight: bold;
 }
 
 .clear-container {
