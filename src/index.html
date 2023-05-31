@@ -8,14 +8,13 @@
     <script src="https://kit.fontawesome.com/845ab240d8.js" crossorigin="anonymous"></script>
 </head>
 <body>
-  <section>
     <div class="container">
         <header>
             <h1>To Do Lists</h1>
         </header>
         <div class="todolist-container">
             <h2>Today's To Do<i class="fas fa-sync icon1"></i></h2>
-            <form id="taskForm" action="POST" class="input-icon">
+            <form id="taskForm" method="POST" class="input-icon">
                 <input class="todo-input" type="text" name="New Task" id="newTask" placeholder="Add to your list..." required>
                 <button id="taskSubmit" type="submit"><i class="fas fa-plus-square icon"></i></button>
             </form>
@@ -25,6 +24,5 @@
             </div>
         </div>
     </div>
-  </section>
 </body>
 </html>
