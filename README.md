@@ -4,7 +4,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it.
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/> -->
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>setup webpack</b></h3>
 
 </div>
 
@@ -16,7 +16,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -29,7 +28,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -67,9 +65,6 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,12 +98,6 @@ Clone this repository to your desired folder:
 - GitHub: [@TaiwoEnoch](https://github.com/TaiwoEnoch)
 - Twitter: [@TaiwoEnoch4](https://twitter.com/taiwoenoch4)
 - LinkedIn: [@TaiwoEnoch](https://linkedin.com/in/https://www.linkedin.com/in/taiwo-enoch-b88550222/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [@LinkedIn](https://linkedin.com/in/https:/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +146,5 @@ I would like to thank to appreciate Microverse for opportunity and privilege for
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
