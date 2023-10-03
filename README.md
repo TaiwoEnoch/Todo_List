@@ -34,7 +34,7 @@
 
 # 📖 [setup webpack] <a name="about-project"></a>
 
-**setup webpack** is a project created to demonstrate the ability to set up webpack.
+**Setup webpack** is a project created to demonstrate the ability to set up Webpack.
 
 ## 🛠 Built With <a name="built-with"></a>
 
