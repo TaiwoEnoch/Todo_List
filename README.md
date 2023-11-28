@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it.
+  <!-- You are encouraged to replace this logo with your own! Otherwise, you can also remove it.
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/> -->
   <h3><b>setup webpack</b></h3>
@@ -34,7 +34,7 @@
 
 # 📖 [setup webpack] <a name="about-project"></a>
 
-**Setup webpack** is a project created to demonstrate the ability to set up Webpack.
+**Setup Webpack** is a project created to demonstrate the ability to set up Webpack.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,13 +51,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Linters was setup to ensure standard coding practices**
+- **Linters were setup to ensure standard coding practices**
 - **Gitignore was used to hide some irrelevant files**
-- **GitHub flow was used for understanding of the reading of the code**
-- **when a user clicks the "Add" button:**
+- **GitHub flow was used for understanding the reading of the code**
+- **When a user clicks the "Add" button:**
       - **A new book is added to the collection.**
-      - **The new book is displayed in the page.**
-- **when a user clicks the "Remove" button:**
+      - **The new book is displayed on the page.**
+- **When a user clicks the "Remove" button:**
       - **The correct book is removed from the collection.**
       - **The correct book disappears from the page.**
 
@@ -84,7 +84,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  cd setup-webpack
+  cd setup-web pack
   git clone https://github.com/TaiwoEnoch/setup-webpack.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -127,7 +127,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please do share with friends.
+If you like this project, please do share it with friends.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +135,7 @@ If you like this project, please do share with friends.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to appreciate Microverse for opportunity and privilege for creating such a platform to produce and build strong, problem solving top world best developers. 
+I would like to thank Microverse for the opportunity and privilege of creating such a platform to produce and build strong, problem-solving top-world developers. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
