@@ -106,7 +106,7 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **More implementation of JavaScript**
+- [ ] **Implementation more JavaScript Functionalities**
 - [ ] **Using of JavaScript Framework**
 - [ ] **Using of CSS framework**
 - [ ] **Using of HTML framework**
