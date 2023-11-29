@@ -51,9 +51,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Linters were setup to ensure standard coding practices**
+- **Linters are set to ensure standard coding practices**
 - **Gitignore was used to hide some irrelevant files**
-- **GitHub flow was used for understanding the reading of the code**
+- **GitHub flow was used for understanding the code and best practices**
 - **When a user clicks the "Add" button:**
       - **A new book is added to the collection.**
       - **The new book is displayed on the page.**
