@@ -58,7 +58,7 @@
 - **A new book is added to the collection.**
 - **The new book is displayed on the page.**
 - **When a user clicks the "Remove" button:**
-      - **The correct book is removed from the collection.**
+- **The correct book is removed from the collection.**
       - **The correct book disappears from the page.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
