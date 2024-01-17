@@ -78,7 +78,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
- You can clone this repository in your terminal
+You can clone this repository in your terminal
 
 ### Setup
 
