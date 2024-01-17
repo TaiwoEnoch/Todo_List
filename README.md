@@ -55,7 +55,7 @@
 - **Gitignore was used to hide some irrelevant files**
 - **GitHub flow was used for understanding the code and best practices**
 - **When a user clicks the "Add" button:**
-      - **A new book is added to the collection.**
+- **A new book is added to the collection.**
       - **The new book is displayed on the page.**
 - **When a user clicks the "Remove" button:**
       - **The correct book is removed from the collection.**
